@@ -1,2 +1,2 @@
 # space-mission
-Project thanks to which you can plan some trips into the sp
+Project thanks to which you can plan some trips into the s
