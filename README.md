@@ -1,2 +1,2 @@
-is the life i chose
+s the life i chose
 # space-mission aight
