@@ -1,2 +1,2 @@
- chose
+ schose
 # space-mission aight
