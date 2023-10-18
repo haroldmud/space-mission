@@ -1,2 +1,2 @@
-i chose
+ chose
 # space-mission aight
