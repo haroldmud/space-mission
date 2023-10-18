@@ -1,2 +1,2 @@
- schose
+schose
 # space-mission aight
