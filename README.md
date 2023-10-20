@@ -1,2 +1,2 @@
-se
+e
 # space-mission aight
