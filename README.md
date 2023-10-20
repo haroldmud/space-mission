@@ -1,2 +1,2 @@
-eone else
+one else
 # space-mission aight
